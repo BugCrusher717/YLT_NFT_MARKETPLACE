@@ -1,0 +1,160 @@
+export const sports = [
+  {
+    id: 1,
+    value: "Soccer",
+  },
+  {
+    id: 2,
+    value: "Basketball",
+  },
+  {
+    id: 3,
+    value: "American Football",
+  },
+  {
+    id: 4,
+    value: "Volley",
+  },
+]
+
+export const NFTTypes = [
+  {
+    id: 1,
+    value: "Booster",
+  },
+  {
+    id: 2,
+    value: "Player",
+  },
+  {
+    id: 3,
+    value: "Coach",
+  },
+]
+
+export const attrs = [
+  {
+    id: 1,
+    name: "Speed",
+    type: "number",
+    required: true,
+    min: 1,
+    max: 100,
+  },
+  {
+    id: 2,
+    name: "Defending",
+    type: "number",
+    required: true,
+    min: 1,
+    max: 100,
+  },
+  {
+    id: 3,
+    name: "Stamina",
+    type: "number",
+    required: true,
+    min: 1,
+    max: 100,
+  },
+  {
+    id: 4,
+    name: "Strength",
+    type: "number",
+    required: true,
+    min: 1,
+    max: 100,
+  },
+  {
+    id: 5,
+    name: "Finishing",
+    type: "number",
+    required: true,
+    min: 1,
+    max: 100,
+  },
+  {
+    id: 6,
+    name: "Experience",
+    type: "number",
+    required: true,
+    min: 1,
+    max: 100,
+  },
+  {
+    id: 7,
+    name: "Accuracy",
+    type: "number",
+    required: true,
+    min: 1,
+    max: 100,
+  },
+  {
+    id: 8,
+    name: "Team Coordination",
+    type: "number",
+    required: true,
+    min: 1,
+    max: 100,
+  },
+  {
+    id: 9,
+    name: "Agility",
+    type: "number",
+    required: true,
+    min: 1,
+    max: 100,
+  },
+  {
+    id: 10,
+    name: "Aggression",
+    type: "number",
+    required: true,
+    min: 1,
+    max: 100,
+  },
+  {
+    id: 11,
+    name: "Pace",
+    type: "number",
+    required: true,
+    min: 1,
+    max: 100,
+  },
+  {
+    id: 12,
+    name: "Flexibility",
+    type: "number",
+    required: true,
+    min: 1,
+    max: 100,
+  },
+  {
+    id: 13,
+    name: "Focus",
+    type: "number",
+    required: true,
+    min: 1,
+    max: 100,
+  },
+  {
+    id: 14,
+    name: "Weight",
+    type: "number",
+    required: true,
+  },
+  {
+    id: 15,
+    name: "Height",
+    type: "number",
+    required: true,
+  },
+  {
+    id: 16,
+    name: "Health",
+    type: "number",
+    required: true,
+    min: 1,
+    max: 100,
+  },
+]
